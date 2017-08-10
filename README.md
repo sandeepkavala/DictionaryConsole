@@ -1,0 +1,2 @@
+# DictionaryConsole
+Console Dictionary Application
